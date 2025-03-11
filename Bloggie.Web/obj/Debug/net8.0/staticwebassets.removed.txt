@@ -1,0 +1,1 @@
+D:\PERSONAL\Practice\BloggieMVC\BloggieMVC\Bloggie\Bloggie.Web\wwwroot\assets\libs\autonumeric\autoNumeric.min.js
