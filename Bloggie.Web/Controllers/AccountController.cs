@@ -48,7 +48,7 @@ namespace Bloggie.Web.Controllers
 
             }
 
-            // Show error notification
+            // Show error notification ok
             return View(); 
         }
 
