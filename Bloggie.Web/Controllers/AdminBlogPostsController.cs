@@ -33,7 +33,7 @@ namespace Bloggie.Web.Controllers
 
             return View(model);
         }
-
+        // ok i am good ok
 
         [HttpPost]
         public async Task<IActionResult> Add(AddBlogPostRequest addBlogPostRequest)
